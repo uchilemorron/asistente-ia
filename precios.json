@@ -1,0 +1,5 @@
+﻿{
+    "gemini-2.5-flash": {"entrada": 0.30, "salida": 2.50},
+    "gemini-2.5-flash-lite": {"entrada": 0.10, "salida": 0.40},
+    "_por_defecto": {"entrada": 0.30, "salida": 2.50}
+}

@@ -1,0 +1,5 @@
+﻿{
+    "TK-1042": {"estado": "en proceso", "area": "redes", "dias_abierto": 3, "prioridad": "alta"},
+    "TK-2071": {"estado": "resuelto", "area": "soporte_tecnico", "dias_abierto": 12, "prioridad": "media"},
+    "TK-3300": {"estado": "pendiente", "area": "matricula", "dias_abierto": 1, "prioridad": "alta"}
+}
